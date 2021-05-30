@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/pravindhuri/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-![Pravin's github stats](https://github-readme-stats.vercel.app/api?username=PravinDhuri&theme=calm&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PravinDhuri&theme=calm&layout=compact)
+![Pravin's github stats](https://github-readme-stats.vercel.app/api?username=Pravin Dhuri&theme=calm&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravin Dhuri&theme=calm&layout=compact)
 <a>
 </a>
 <a>
